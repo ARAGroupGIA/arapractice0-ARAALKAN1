@@ -10,6 +10,5 @@ void main(){
 	
 	sum=firstNumber + secondNumber;
 	printf("%d + %d = %d",	firstNumber, secondNumber, sum);
-	
-	return 0;/* Here, you should write the source code of your program */
+	/* Here, you should write the source code of your program */
 }
